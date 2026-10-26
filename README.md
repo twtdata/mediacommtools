@@ -109,6 +109,7 @@ Media data:
 - [Twitter API](https://developer.twitter.com/).
 - [Twitter - helpful tools](https://developer.twitter.com/en/use-cases/academic-researchers/helpful-tools) - Twitter lists helpful tools for data access, data analysis, data visualization, and hosting.
 - [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
+- [twtData](https://twtdata.com/download-tweets/) - export the tweets of any public X (Twitter) account to CSV, with date, likes, reposts, replies, views, hashtags and links per tweet; paid per export, free sample CSV (online tool).
 
 ### Wikipedia
 
